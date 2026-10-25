@@ -31,4 +31,4 @@
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://username.github.io/kr1-html-css-shop/
+GitHub Pages: https://momik888.github.io/krl-html-css-shop/
